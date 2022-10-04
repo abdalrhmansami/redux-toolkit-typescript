@@ -1,6 +1,7 @@
 {
     "games": [
         {
+            "id": "1",
             "name": "red dead",
             "address": "mosul",
             "numberOfPeople": 3497436,
@@ -9,6 +10,7 @@
             "fieldNumber": 438694632
         },
         {
+            "id": "2",
             "name": "red dead",
             "address": "Iraq",
             "numberOfPeople": 3497436,
@@ -17,6 +19,7 @@
             "fieldNumber": 438694632
         },
         {
+            "id": "3",
             "name": "red dead",
             "address": "Iraq",
             "numberOfPeople": 3497436,
@@ -25,6 +28,7 @@
             "fieldNumber": 438694632
         },
         {
+            "id": "4",
             "name": "red dead",
             "address": "Iraq",
             "numberOfPeople": 3497436,
@@ -33,6 +37,7 @@
             "fieldNumber": 438694632
         },
         {
+            "id": "5",
             "name": "red dead",
             "address": "Iraq",
             "numberOfPeople": 3497436,
