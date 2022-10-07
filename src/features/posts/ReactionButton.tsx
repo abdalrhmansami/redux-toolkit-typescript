@@ -15,7 +15,7 @@ const ReactionButton = ({ post }: any) => {
   const reactionButtons = Object.entries(reactionEmoji).map(([name, emoji]) => {
     return (
       <button
-        key={name}
+        key={Math.random() * 100}
         type="button"
         className="reactionButton"
         onClick={() =>
