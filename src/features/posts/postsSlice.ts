@@ -24,7 +24,7 @@ export const fetchPosts: any = createAsyncThunk(
 );
 
 // initialPost will be the body of the post request
-export const addNewPost = createAsyncThunk(
+export const addNewPost: any = createAsyncThunk(
   "posts/addNewPost",
   async (initialPost) => {
     const response = await axios.post(POSTS_URL, initialPost);
